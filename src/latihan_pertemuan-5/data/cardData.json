@@ -1,0 +1,26 @@
+[
+    {
+        "icon": "FaShoppingCart",
+        "count": 75,
+        "label": "Total Orders",
+        "bgColor": "bg-hijau"
+    },
+    {
+        "icon": "FaTruck",
+        "count": 175,
+        "label": "Total Delivered",
+        "bgColor": "bg-biru"
+    },
+    {
+        "icon": "FaBan",
+        "count": 40,
+        "label": "Total Canceled",
+        "bgColor": "bg-merah"
+    },
+    {
+        "icon": "FaDollarSign",
+        "count": "Rp.128",
+        "label": "Total Revenue",
+        "bgColor": "bg-kuning"
+    }
+]
